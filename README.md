@@ -1,6 +1,6 @@
 ER Diagram and SQL Code for Normalizing Supply Chain Data to 3NF
 
-This lab helped me deeply understand the concept of normalizing data into 3NF. I went through multiple iterations (redos) of the ER diagram to me understand the concept to identify and eliminate redundancy (repeated/duplicated data), particularly in the Order, Supplier, and Product attributes. After refining the diagram, I created SQL code to normalize the supply chain dataset, splitting it into separate tables (Orders, Products, Suppliers) to eliminate duplicate data.
+This lab helped me deeply understand the concept of normalizing data into 3NF. I went through multiple redos of the ER diagram to help me understand the concept to identify and eliminate redundancy (repeated/duplicated data), particularly in the Order, Supplier, and Product attributes. After refining the diagram, I created SQL code to normalize the supply chain dataset, splitting it into separate tables (Orders, Products, Suppliers) to eliminate duplicate data.
 
 Key Takeaways:
 
